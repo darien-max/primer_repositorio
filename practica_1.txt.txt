@@ -1,2 +1,0 @@
-repaso de todos los comandos de git 
-comandos:

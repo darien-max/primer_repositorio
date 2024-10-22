@@ -1,0 +1,18 @@
+LISTADO DE CODIGOS
+-git init//sirve para empesar un archibo para git
+-git log// para verificar todos los avances y commits
+-git status//mustra los archibos q han sido modificados
+-git add //sirve para verificar los archibos 
+-git add .//sirve para guaradar todos los archivos y canbios en el git
+-git remote add origin https://github.com/OWNER/REPOSITORY.git// sirve para relacionar la cuenta de git
+-git push -u origen master//sirve para conectar la cuenta de git 
+-git commit -m " primer commit"// se usa para crear el primer o todos los commits
+-clear// sirve para limpiar la pisarra de git 
+-git cofig credential.username"darien-max"// se usa para cambiar o actualizar el usuario de git 
+-git cofig credential.useremaildpalaciosg@inemkennedy.edu.co// se usa para cambiar o actualizar el email de git 
+-git cofig --global user.name"your name"//sirve para crear tu cuienta de git
+-git cofig --global user.email dpalaciosg@inemkennedy.edu.co//sirve para crear el email de git
+-git push//se utiliza subir canvios al repositorio o crear canbios en el repositorio
+-git cofig --global user.name//se usa para crear la cuenta de git
+-git cofig --global user.email//se usa para crear el email de git
+
